@@ -1,7 +1,7 @@
 # Tech Gadget Launch Page
 
 This repository contains my HTML assignment **Tech Gadget Launch Page**.  
-The project is a single HTML file (`gadget_launch.html`) showcasing a sample tech gadget (SmartX Watch).
+The project is a single HTML file (`gadget_launch.html`) showcasing a sample tech gadget (AyniX Watch).
 
 ## 📄 Project Description
 - Created using **only plain HTML** (no CSS, no JavaScript).
